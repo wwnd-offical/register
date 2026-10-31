@@ -4,9 +4,8 @@
     "email": "wwnd.offical.mail@gmail.com"
   },
   "records": {
-    "NS": [
-      "jermaine.ns.cloudflare.com",
-      "kate.ns.cloudflare.com"
+    "CNAME": [
+      "wwnd-offical.github.io"
     ]
   }
 }
